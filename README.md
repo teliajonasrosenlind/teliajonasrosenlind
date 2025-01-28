@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <script> 
-  console.log("hejsan mamma och pappa)
+  console.log("hejsan mamma och pappa")
 </script>
 
 
