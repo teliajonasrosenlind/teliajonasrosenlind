@@ -16,9 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <script> 
-  console.log("hejsan mamma och pappa")
-</script>
+  console.log("ping")
 
+    
+</script>
+<script>
+  /* ACE Widgets - Embed v15 */
+  (function(e,t){var n=document.getElementsByTagName("script")[0];var i=document.createElement("script");i.type="module";
+  window.ace=window.ace||{_c:[],_w:[],widget:function(e,t){window.ace._w.push([e,t])},
+  configure:function(e){window.ace._c.push(e)}};i.async=true;i.src=e;
+  if(t?.integrity){i.integrity=t.integrity;i.crossorigin="anonymous"}if(n?.parentNode){n.parentNode.insertBefore(i,n)}})
+  ("https://widgets-dev.ace.teliacompany.net/embed/demobolaget/cfec8428-42ea-45a7-bb80-6788badd833d?v=1.1.82-rc.20", {})
+</script>
 
   
 </html>
